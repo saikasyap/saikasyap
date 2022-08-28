@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **NLP, Deep learning, ML & Data Science.**
 
-- 🤝 I’m looking for help with **Advanced NLP, research publications,**
+- 🤝 I’m looking for help with **Advanced NLP, research publications.**
 
 - 👨‍💻 Few of my projects are available at [https://github.com/saikasyap?tab=repositories](https://github.com/saikasyap?tab=repositories)
 
