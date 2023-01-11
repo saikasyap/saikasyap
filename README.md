@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikasyap" alt="saikasyap" /></a> </p>
 
-- 🔭 I’m currently working on **Aspect based sentiment analysis triplet extraction, search engine, Multilingual OCR.**
+- 🔭 I’m currently working on **Aspect based sentiment analysis quadraplet extraction, search engine, Multilingual OCR.**
 
 - 🌱 I’m currently learning **Docker, block chain, UI/ UX & product management.**
 
 - 👯 I’m looking to collaborate on **NLP, Deep learning, ML & Data Science.**
 
-- 🤝 I’m looking for help with **Advanced NLP, research publications.**
+- 🤝 I’m looking to colloborate on **Advanced NLP, research publications.**
 
 - 👨‍💻 Few of my projects are available at [https://github.com/saikasyap?tab=repositories](https://github.com/saikasyap?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **saikasyap@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/mlxasg2upebtxfz/Sai_Kasyap_Resume.pdf?dl=0](https://www.dropbox.com/s/mlxasg2upebtxfz/Sai_Kasyap_Resume.pdf?dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/s/xy4o9f0zcviv635/SaiKasyap_Resume.pdf?dl=0](https://www.dropbox.com/s/mlxasg2upebtxfz/Sai_Kasyap_Resume.pdf?dl=0)
 
 - ⚡ Fun fact **I like to Hike, cook & love dogs.**
 
