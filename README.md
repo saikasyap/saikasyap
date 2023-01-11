@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **saikasyap@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/xy4o9f0zcviv635/SaiKasyap_Resume.pdf?dl=0](https://www.dropbox.com/s/xy4o9f0zcviv635/SaiKasyap_Resume.pdf?dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/s/xy4o9f0zcviv635/SaiKasyap_Resume.pdf?dl=0](Dropbox link)
 
 - ⚡ Fun fact **I like to Hike, cook & love dogs.**
 
