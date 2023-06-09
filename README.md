@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kasyap</h1>
-<h3 align="center">Senior/Lead Data Scientist from India (Alma mater: Arizona State Univ, George Mason Univ).</h3>
+<h3 align="center">Lead Data Scientist from India (Currently doing PhD from IIT Hyd, Alma mater: Arizona State Univ, George Mason Univ).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikasyap&label=Profile%20views&color=0e75b6&style=flat" alt="saikasyap" /> </p>
 
