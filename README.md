@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikasyap" alt="saikasyap" /></a> </p>
 
-- 🔭 I’m currently working on **Aspect based sentiment analysis quadraplet extraction, search engine, Multilingual OCR.**
+- 🔭 I’m currently working on **Speech AI,NLP & Generative AI.**
 
-- 🌱 I’m currently learning **Docker, block chain, UI/ UX & product management.**
+- 🌱 I’m currently learning **Generative AI as it evolves rapidly.**
 
 - 👯 I’m looking to collaborate on **NLP, Deep learning, ML & Data Science.**
 
-- 🤝 I’m looking to colloborate on **Advanced NLP, research publications.**
+- 🤝 I’m looking to colloborate on **Advanced NLP, Speech, research publications.**
 
 - 👨‍💻 Few of my projects are available at [https://github.com/saikasyap?tab=repositories](https://github.com/saikasyap?tab=repositories)
 
